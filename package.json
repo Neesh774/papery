@@ -1,7 +1,12 @@
 {
   "name": "papery",
   "displayName": "papery",
+  "publisher": "Neesh774",
   "description": "An actually decent light theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Neesh774/papery"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
